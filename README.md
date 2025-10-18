@@ -14,4 +14,4 @@ The project focuses on efficiency and usability rather than complex algorithms. 
 - Modular design for experimenting with tokenization or text preprocessing.
 
 ## Note:
-- Current version is based on free tier API (please don't abuse)
+- Current version is based on free tier API
