@@ -1,4 +1,4 @@
-# Demo Chatbot – Artificial Brain
+# Chatbot – Artificial Brain
 
 ## Overview
 This repository contains a lightweight chatbot demo built to run on commodity hardware. It is designed for experimentation with on-device AI tasks and demonstrates basic natural language understanding and response generation.
