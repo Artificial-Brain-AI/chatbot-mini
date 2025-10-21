@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Simple “AI” response function (API feature is in under process 😅)
+# Simple “AI” response function (API feature is partially done 😅)
 def simple_ai_response(user_input):
     # Demo logic: simple keyword responses
     user_input = user_input.lower()
