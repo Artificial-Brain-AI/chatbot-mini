@@ -1,6 +1,6 @@
 # app.py
 """
-🧠 Artificial Brain - Chat Demo API
+🧠 Artificial Brain - Mini chat Demo
 Lightweight Flask API for demo conversational responses.
 -------------------------------------------------------
 This module demonstrates a simple POST endpoint (/chat)
